@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 Last semester IT student looking for 1st commercial experience.
 
