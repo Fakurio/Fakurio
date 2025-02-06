@@ -1,5 +1,5 @@
 # 💫 About Me:
-Last semester IT student looking for 1st commercial experience.
+Computer Science bachelor graduate looking for 1st commercial experience.
 
 
 # 💻 Tech Stack:
